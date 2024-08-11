@@ -1,7 +1,4 @@
-# Labyrinth-Maze-
-
-
-# Labyrinth Analysis Project
+# Labyrinth Maze Assignment
 
 ## Overview
 This project is a Python-based solution to analyze labyrinth structures represented by a specific coding system. The labyrinth is represented in text files using the numbers {0, 1, 2, 3}, where each digit signifies different types of connections between points in the grid.
